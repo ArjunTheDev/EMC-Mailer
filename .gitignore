@@ -1,0 +1,5 @@
+
+mailer_api/node_modules/
+mailer_ui/node_modules/
+mailer_api/package-lock.json
+mailer_ui/package-lock.json
